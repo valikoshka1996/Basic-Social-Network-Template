@@ -27,4 +27,4 @@
 2. **Налаштувати точку входу**:
    Точка входу /public/index
 3. **Запустити чат сервер Workerman**:
-   Перейти в папку /src/workerman/ та виконати команду php start.php start
+   Перейти в папку /src/workerman/ та виконати команду ``` php start.php start ```
