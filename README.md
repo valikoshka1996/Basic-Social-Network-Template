@@ -21,5 +21,5 @@
 
 1. **Клонування репозиторію**:
    ```bash
-   git clone https://github.com/your_username/basic-social-network.git
+   git clone https://github.com/valikoshka1996/Basic-Social-Network-Template.git
    cd basic-social-network
