@@ -1,0 +1,13 @@
+body {
+    padding-top: 5rem;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.profile-info img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
