@@ -23,3 +23,6 @@
    ```bash
    git clone https://github.com/valikoshka1996/Basic-Social-Network-Template.git
    cd basic-social-network
+
+2. **Налаштувати точку входу**:
+   Точка входу /public/index
